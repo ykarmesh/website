@@ -22,24 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Robotics Engineer
+    company: isee
+    company_url: 'www.isee.ai'
+    location: Pittsburgh
+    date_start: '2020-07-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description:
+
+  - title: Graduate Research Assistant
+    company: Robotics Research Center, IIITH
+    company_url: 'https://robotics.iiit.ac.in/'
+    location: Hyderabad
+    date_start: '2017-08-01'
+    date_end: '2018-06-12'
+    description:
+
+  - title: Intern, Autonomous Driving Team
+    company: Mathworks
+    company_url: 'https://www.mathworks.com/'
+    location: Hyderabad
+    date_start: '2017-08-01'
+    date_end: '2018-11-24'
+    description:
+        * Optimized ORB-SLAM and made it more robust to fuse its position output with RTK-GPS, IMU & Wheel Encoder data using an EKF.
+        * Worked on SLAM pose covariance estimation and extrinsic calibration of IMU and cameras        
+
+  - title: Research Intern
+    company: Intelligent Vehicles Lab, National Taiwan University
+    company_url: 'http://140.112.14.7/~kangli1234/IVMechatronics/index.html'
+    location: Taipei
+    date_start: '2016-05-15'
+    date_end: '2018-07-20'
+    description:
+        * Developed a two-level motion planner, utilizing the A-star (A*) and Rapidly-exploring Random Tree (RRT) algorithm, on a local map built using laser scanners for an electric golf cart.
+        * Created a vehicle model and forward-simulated the vehicle trajectory using Pure Pursuit steering controller and Proportional-Integral (PI) speed controller.
 ---
