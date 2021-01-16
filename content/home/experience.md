@@ -29,6 +29,18 @@ experience:
     date_start: '2020-07-01'
     date_end: ''
     description:
+        * Investigating online methods to estimate tracking performance of AVs using deep flow-based models.
+        * Developed the speed planning module for safely achieving three-fold increase in operating speed
+
+  - title: Software Development Intern
+    company: isee
+    company_url: 'www.isee.ai'
+    location: Boston
+    date_start: '2019-05-20'
+    date_end: '2019-08-10'
+    description:
+        * Built toolboxes to automate the system identification and calibration procedure of Isee’s vehicles.
+        * Researched and implemented various vehicle and tire models for control application in AVs.
 
   - title: Graduate Research Assistant
     company: Robotics Research Center, IIITH
@@ -37,6 +49,8 @@ experience:
     date_start: '2017-08-01'
     date_end: '2018-06-12'
     description:
+        * Created a Q-Learning based planner to prevent monocular slam failure on non-holonomic robots.
+        * Developed a simulation environment in Gym-Gazebo for training, with Navigation Stack for planning and ORB-SLAM for perception and localization.
 
   - title: Intern, Autonomous Driving Team
     company: Mathworks
