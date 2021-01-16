@@ -28,7 +28,7 @@ experience:
     location: Pittsburgh
     date_start: '2020-07-01'
     date_end: ''
-    description:
+    description: |2-
         * Investigating online methods to estimate tracking performance of AVs using deep flow-based models.
         * Developed the speed planning module for safely achieving three-fold increase in operating speed
 
@@ -38,7 +38,7 @@ experience:
     location: Boston
     date_start: '2019-05-20'
     date_end: '2019-08-10'
-    description:
+    description: |2-
         * Built toolboxes to automate the system identification and calibration procedure of Isee’s vehicles.
         * Researched and implemented various vehicle and tire models for control application in AVs.
 
@@ -48,7 +48,7 @@ experience:
     location: Hyderabad
     date_start: '2017-08-01'
     date_end: '2018-06-12'
-    description:
+    description: |2-
         * Created a Q-Learning based planner to prevent monocular slam failure on non-holonomic robots.
         * Developed a simulation environment in Gym-Gazebo for training, with Navigation Stack for planning and ORB-SLAM for perception and localization.
 
