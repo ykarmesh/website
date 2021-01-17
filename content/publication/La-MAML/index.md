@@ -46,7 +46,9 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
+links:
+- name: Oral
+  url: 
 url_pdf: 'https://arxiv.org/abs/2007.13904.pdf'
 url_code: 'https://github.com/montrealrobotics/La-MAML'
 url_dataset: ''

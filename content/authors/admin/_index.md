@@ -67,6 +67,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am a Robotics Engineer at isee, a startup based in Boston that is working on automating the trucking industry.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Karmesh_Yadav_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Karmesh_Yadav_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
