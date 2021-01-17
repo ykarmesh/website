@@ -34,6 +34,4 @@ We found that while the problem was very big in scope, and involved managing to 
 
 Interesting observations: we found that doing IRL was a good way to find the optimal relative weights for the different reward terms if we asked the discriminator to simply provide us with the coefficients (instead of coming up with a single scalar reward!).
 
-Links to slides for a talk my amazing collaborator Gunshi Gupta gave on this project: https://docs.google.com/presentation/d/1AGcBNlH7KY8BCs1n61UKNR-X-VbYdSNj_8dTMCfdUGI/edit?usp=sharing
-
-
+Links to slides for a talk my amazing collaborator, Gunshi Gupta gave on this project: [Link](https://docs.google.com/presentation/d/1AGcBNlH7KY8BCs1n61UKNR-X-VbYdSNj_8dTMCfdUGI/edit?usp=sharing)
