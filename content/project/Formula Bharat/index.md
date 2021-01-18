@@ -1,9 +1,10 @@
 ---
 title: Formula Bharat
 
-summary: A formule styled race car developed by students
+summary: A formula-styled race car developed at IIT Guwahati
 tags:
 - Vehicle Dynamics
+- Other
 
 date: "2017-01-01T00:00:00Z"
 
@@ -34,20 +35,14 @@ Developing the steering system of a race car requires working at the limits of h
 
 Considering the endurance and autocross race track, an Ackermann type steering geometry was considered for implementation. Using available tire data, I developed a two track vehicle model with roll dynamics. Using appropriate constraints, the steering angles required by the left and right side tires are calculated. This is followed by iteratively finding out the optimum geometric parameters necessary for obtaining the required steering angles. Further, the dynamic analysis was carried out to find out the combination of scrub radius, mechanical trail and wheel radius which could provide the necessary steering feel. A final steering assembly with a 75% static ackermann will be installed in the car. 
 
-<img src="steering_system.jpeg" alt="Steering System" title="A CAD model of our steering system" width="260" height="200" />
-<img src="steering-graph_orig.jpeg" alt="Steering Graph" title="Steering angle graph for various beta" width="266" height="200" />
-<img src="steering-graph_orig_1.jpeg" alt="Radius of Curvature Graph" title="Radius of Curvature vs Steering Angle" width="266" height="200" />
-<img src="wheel_2_orig.jpeg" alt="Steering Wheel" title="An analysis of the forces acting on the steering wheel" width="255" height="200" />
+<img src="steering.png" alt="Steering System" title="" width="1100" height="200" />
 
 ## Suspension System
 I developed pushrod double-wishbone suspension system for the rear of the car.  The main focus was obtaining the required ride quality while reducing the shimmy and shaking of rear tires, keeping the weight of the sub assembly low at the same time.
 
 Following an iterative design approach, various design parameters of the knuckle and other components were fixed. A static analysis helped in finding out the required spring coefficient, while a quarter car model of the vehicle was used to carry out the ride analysis, to obtain the appropriate damping coefficient. Further, the variation of wheel alignment with suspension travel was studied to get a better understanding of the kinematics of the system. This was followed by a topology optimisation of the designed components to ensure robustness and sustainability of the subsystem  at minimum weight.
 
-<img src="rear-sus_orig.jpeg" alt="Steering System" title="A CAD model of our steering system" width="283" height="200" />
-<img src="camber_orig.jpeg" alt="Camber Change" title="An analysis of change in the Camber as the suspension A arms rotate around the mounting points" width="266" height="200" />
-<img src="toe-change_orig.png" alt="Toe Change" title="An analysis of change in the Toe as the suspension A arms rotate around the mounting points" width="266" height="200" />
-<img src="knuckle_2_orig.jpeg" alt="Rear Knuckle" title="A CAD model of the rear knuckle" width="272" height="200" />
+<img src="suspension.png" alt="Steering System" title="" width="1100" height="200" />
 
 <img src="unsprung_orig.jpeg" alt="Frequence Plot 1" title="" width="548" height="210" />
 <img src="frequency_1_orig.jpeg" alt="Frequence Plot 2" title="" width="548" height="210" />
