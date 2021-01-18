@@ -1,5 +1,5 @@
 ---
-title: NeurIPS 2020 Oral Presentation 
+title: NeurIPS 2020 Oral Presentation
 
 event: NeurIPS 2020
 event_url: https://nips.cc/
