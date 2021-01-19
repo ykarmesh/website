@@ -1,9 +1,9 @@
 ---
 title: 'I graduated from Carnegie Mellon University'
-subtitle: 'I graduated from Robotics Institute, CMU with a Masters in Robotic Systems Development degree'
+subtitle: 'I graduated from Robotics Institute, CMU with a Masters degree in Robotic Systems Development'
 
 # Summary for listings and search engines
-summary: 'I graduated from Robotics Institute, CMU with a Masters in Robotic Systems Development degree'
+summary: 'I graduated from Robotics Institute, CMU with a Masters degree in Robotic Systems Development'
 
 # Link this post with a project
 projects: []
