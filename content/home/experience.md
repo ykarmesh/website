@@ -57,7 +57,7 @@ experience:
     company_url: 'https://www.mathworks.com/'
     location: Hyderabad
     date_start: '2017-08-01'
-    date_end: '2018-11-24'
+    date_end: '2017-11-24'
     description: |2-
         * Optimized ORB-SLAM and made it more robust to fuse its position output with RTK-GPS, IMU & Wheel Encoder data using an EKF.
         * Worked on SLAM pose covariance estimation and extrinsic calibration of IMU and cameras        
@@ -67,7 +67,7 @@ experience:
     company_url: 'http://140.112.14.7/~kangli1234/IVMechatronics/index.html'
     location: Taipei
     date_start: '2016-05-15'
-    date_end: '2018-07-20'
+    date_end: '2016-07-20'
     description: |2-
         * Developed a two-level motion planner, utilizing the A-star (A*) and Rapidly-exploring Random Tree (RRT) algorithm, on a local map built using laser scanners for an electric golf cart.
         * Created a vehicle model and forward-simulated the vehicle trajectory using Pure Pursuit steering controller and Proportional-Integral (PI) speed controller.

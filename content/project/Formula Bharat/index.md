@@ -1,12 +1,12 @@
 ---
 title: Formula Bharat
 
-summary: A formula-styled race car developed at IIT Guwahati
+summary: A formula-styled race car developed in IIT Guwahati
 tags:
 - Vehicle Dynamics
 - Other
 
-date: "2017-01-01T00:00:00Z"
+date: "2017-01-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -47,5 +47,5 @@ Following an iterative design approach, various design parameters of the knuckle
 <img src="unsprung_orig.jpeg" alt="Frequence Plot 1" title="" width="548" height="210" />
 <img src="frequency_1_orig.jpeg" alt="Frequence Plot 2" title="" width="548" height="210" />
 
-Here is the latest webiste of our Automobile Club at IIT Guwahati: [Link](https://www.iitg.ac.in/stud/gymkhana/technical/home/AutoHome.html)
+Here is the latest website of our Automobile Club at IIT Guwahati: [Link](https://www.iitg.ac.in/stud/gymkhana/technical/home/AutoHome.html)
 
