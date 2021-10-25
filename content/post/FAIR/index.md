@@ -1,6 +1,6 @@
 ---
 title: 'Joined FAIR as an AI Resident'
-subtitle: 'I started working as an AI Resident with Facebook AI Research.'
+subtitle: 'I started working as an AI Resident in Facebook AI Research.'
 
 # Summary for listings and search engines
 summary: 'I started working as an AI Resident in Facebook AI Research. I will be working with Dr. Oleksandr Maksymets and Prof. Dhruv Batra on training embodied agents in the Habitat Simulator'

@@ -10,8 +10,8 @@ role: Robotics Engineer at isee
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: isee
-  url: https://www.isee.ai/
+- name: FAIR
+  url: https://ai.facebook.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Reinforcement Learning, Robotics and Meta-Learning.
@@ -67,6 +67,6 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I am a Robotics Engineer at isee, a Boston-based startup aiming to automating the trucking industry. I’m interested in motion planning and controls for robotics, and have been researching how we can develop better deep learning algorithms for safe and online robot learning. I completed my Masters in Robotics Systems Development (MRSD) at the CMU Robotics Institute in 2020. In my free time, I love to read and hike.
+Hi! I am an AI Resident at FAIR, working with the Habitat-Sim team. I’m interested in robot learning, and have been researching how can we learn better representations for downstream training of Embodied AI agents. I completed my Masters in Robotics Systems Development (MRSD) at the CMU Robotics Institute in 2020. In my free time, I love to read and hike.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Karmesh_Yadav_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
