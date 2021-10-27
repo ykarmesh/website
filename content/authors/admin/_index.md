@@ -6,7 +6,7 @@ title: Karmesh Yadav
 superuser: true
 
 # Role/position/tagline
-role: Robotics Engineer at isee
+role: AI Resident at FAIR
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,7 +19,7 @@ bio: My research interests include Reinforcement Learning, Robotics and Meta-Lea
 # Interests to show in About widget
 interests:
 - Reinforcement Learning
-- Motion Planning and Controls
+- Robot Learning
 - Meta Learning
 
 # Education to show in About widget
@@ -67,6 +67,6 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I am an AI Resident at FAIR, working with the Habitat-Sim team. I’m interested in robot learning, and have been researching how can we learn better representations for downstream training of Embodied AI agents. I completed my Masters in Robotics Systems Development (MRSD) at the CMU Robotics Institute in 2020. In my free time, I love to read and hike.
+Hi! I am an AI Resident at FAIR, working with the Habitat-Sim team under the supervision of Dr. Oleksandr Maksymets and Prof. Dhruv Batra. I’m interested in robot learning, and have been researching how can we learn better representations for downstream training of Embodied AI agents. Before FAIR, I was working as a Senior Robotics Engineer at ISEE, an autonomous vehicles startup based out of Boston, trying to automate the yard trucking space. I completed my Masters in Robotics Systems Development (MRSD) at the CMU Robotics Institute in 2020. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Karmesh_Yadav_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

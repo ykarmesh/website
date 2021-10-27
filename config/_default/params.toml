@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Shadyside", city = "Pittsburgh", region = "PA", postcode = "15232", country = "United States", country_code = "US"}
+address = {city = "Santa Clara", region = "CA", postcode = "95054", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.452609", longitude = "-79.931293"}
+coordinates = {latitude = "37.391735", longitude = "-121.952285"}
 
 # Directions for visitors to locate you.
 directions = ""

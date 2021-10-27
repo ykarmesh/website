@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jan 2020
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,15 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: AI Resident
+    company: Facebook AI Research
+    company_url: 'ai.facebook.com'
+    location: Menlo Park
+    date_start: '2021-08-30'
+    date_end: ''
+    description: |2-
+        * Researching self-supervised pretraining techniques for learning useful representations for embodied agents. 
+        * Using learnt representions on downstream RL tasks like ImageNav and ObjectNav in the Habitat Sim.
+
   - title: Robotics Engineer
     company: isee
     company_url: 'www.isee.ai'
     location: Pittsburgh
     date_start: '2020-07-01'
-    date_end: ''
+    date_end: '2021-08-23'
     description: |2-
-        * Investigating online methods to estimate tracking performance of AVs using deep flow-based models.
-        * Developed the speed planning module for safely achieving three-fold increase in operating speed
+        * Explored deep uncertainty estimation techniques for predicting the closed loop tracking performance of an Autonomous Vehicle controller. Estimated the collision probability of the AV with respect to obstacles in an occupancy grid.
+        * Improved the Trajectory Optimization Planner and robustified its collision checking. This led to an increased confidence in its performance and resulted in its deployment on the AV.
+        * Developed the speed planning module for safely achieving three-fold increase in operating speed.        
 
   - title: Software Development Intern
     company: isee
