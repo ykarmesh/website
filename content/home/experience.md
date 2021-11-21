@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: |2-
         * Researching self-supervised pretraining techniques for learning useful representations for embodied agents. 
-        * Using learnt representions on downstream RL tasks like ImageNav and ObjectNav in the Habitat Sim.
+        * Using the learnt representions on downstream RL tasks like image-goal navigation and object-goal navigation in the Habitat Simulator.
 
   - title: Robotics Engineer
     company: isee
@@ -39,9 +39,9 @@ experience:
     date_start: '2020-07-01'
     date_end: '2021-08-23'
     description: |2-
-        * Explored deep uncertainty estimation techniques for predicting the closed loop tracking performance of an Autonomous Vehicle controller. Estimated the collision probability of the AV with respect to obstacles in an occupancy grid.
-        * Improved the Trajectory Optimization Planner and robustified its collision checking. This led to an increased confidence in its performance and resulted in its deployment on the AV.
-        * Developed the speed planning module for safely achieving three-fold increase in operating speed.        
+        * Explored deep uncertainty estimation techniques for predicting the closed loop tracking performance of an autonomous vehicle controller. Estimated the collision probability of the AV with respect to obstacles in an occupancy grid.
+        * Improved the trajectory optimization planner and robustified its collision checking. This led to an increased confidence in its performance and resulted in its deployment on the AV.
+        * Developed the speed planning module for safely achieving three-fold increase in the operating speed of the AV.        
 
   - title: Software Development Intern
     company: isee
