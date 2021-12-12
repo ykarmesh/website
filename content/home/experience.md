@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: |2-
         * Researching self-supervised pretraining techniques for learning useful representations for embodied agents. 
-        * Using the learnt representions on downstream RL tasks like image-goal navigation and object-goal navigation in the Habitat Simulator.
+        * Using the learnt representations on downstream RL tasks like image-goal navigation and object-goal navigation in the Habitat Simulator.
 
   - title: Robotics Engineer
     company: isee
