@@ -1,5 +1,5 @@
 ---
-title: "Offline visual representation learning for embodied navigation"
+title: "OVRL: Offline Visual Representation Learning for Embodied Navigation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

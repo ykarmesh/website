@@ -93,21 +93,21 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {city = "Santa Clara", region = "CA", postcode = "95054", country = "United States", country_code = "US"}
+# address = {city = "Santa Clara", region = "CA", postcode = "95054", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.391735", longitude = "-121.952285"}
+# coordinates = {latitude = "37.391735", longitude = "-121.952285"}
 
 # Directions for visitors to locate you.
 directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 17:30 to 19:00 EST", "Wednesday 17:30 to 19:00 EST"]
+# office_hours = ["Monday 17:30 to 19:00 EST", "Wednesday 17:30 to 19:00 EST"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/ykarmesh"
+# appointment_url = "https://calendly.com/ykarmesh"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -259,7 +259,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 

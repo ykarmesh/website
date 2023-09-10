@@ -42,12 +42,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:ykarmesh@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/KarmeshYadav
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=VsTyEcQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
