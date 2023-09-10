@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'Image credit: [**isee**](https://www.isee.ai/)'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

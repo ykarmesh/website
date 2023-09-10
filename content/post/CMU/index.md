@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'Image credit: [**CMU**](https://www.cmu.edu/brand/downloads/index.html)'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

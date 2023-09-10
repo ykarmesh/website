@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**isee**](https://ai.facebook.com/)'
+  caption: 'Image credit: [**Facebook AI**](https://ai.facebook.com/)'
   focal_point: ""
   placement: 2
   preview_only: false

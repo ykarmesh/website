@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'Image credit: [**NeurIPS**](https://nips.cc/static/nips/img/neurips-logo-new.svg)'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
