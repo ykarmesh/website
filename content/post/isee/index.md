@@ -1,5 +1,5 @@
 ---
-title: 'Joined isee as a Robotics Engineer'
+title: 'July 2020: Joined isee as a Robotics Engineer'
 subtitle: 'I started working as a Robotics Engineer at isee. I will be part of the Planning Team'
 
 # Summary for listings and search engines

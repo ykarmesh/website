@@ -8,3 +8,6 @@ jsconfig.json
 
 # Local Netlify folder
 .netlify
+
+# others
+.DS_Store

@@ -1,5 +1,5 @@
 ---
-title: 'Our paper, La-MAML was accepted for Oral Presentation at NeurIPS 2020'
+title: 'Dec 2020: Our paper, La-MAML was accepted for Oral Presentation at NeurIPS 2020'
 subtitle: 'Our paper, Look-Ahead Meta Learning for Continual Learning was accepted for Oral Presentation (top 1% of submitted works) at NeurIPS 2020'
 
 # Summary for listings and search engines

@@ -1,5 +1,5 @@
 ---
-title: 'Joined FAIR as an AI Resident'
+title: 'Aug 2021: Joined FAIR as an AI Resident'
 subtitle: 'I started working as an AI Resident in Facebook AI Research.'
 
 # Summary for listings and search engines

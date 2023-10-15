@@ -1,5 +1,5 @@
 ---
-title: 'I graduated from Carnegie Mellon University'
+title: 'May 2020: I graduated from Carnegie Mellon University'
 subtitle: 'I graduated from Robotics Institute, CMU with a Masters degree in Robotic Systems Development'
 
 # Summary for listings and search engines

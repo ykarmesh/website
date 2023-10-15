@@ -1,5 +1,5 @@
 ---
-title: 'Joined Georgia Tech as a PhD Student'
+title: 'Aug 2023: Joined Georgia Tech as a PhD Student'
 subtitle: 'I started working as a PhD Student in Georgia Tech with Prof Dhruv Batra and Prof Zsolt Kira.'
 
 # Summary for listings and search engines
