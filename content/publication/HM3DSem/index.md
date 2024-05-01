@@ -58,6 +58,8 @@ featured: false
 links:
 - name: CVPR 2023
   url: 
+- name: Spotlight
+  url: 
 url_pdf: 'https://arxiv.org/pdf/2210.05633.pdf'
 url_code: 'https://github.com/facebookresearch/habitat-sim/tree/main'
 url_dataset: 'https://github.com/facebookresearch/habitat-sim/blob/main/DATASETS.md#habitat-matterport-3d-research-dataset-hm3d'

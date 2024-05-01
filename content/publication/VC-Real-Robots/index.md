@@ -57,9 +57,9 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: ICRA 2024
+  url: 
 url_pdf: 'https://pvrs-sim2real.github.io/assets/2310.02219.pdf'
 url_code: ''
 url_dataset: ''
