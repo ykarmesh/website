@@ -49,7 +49,7 @@ publishDate: "2024-04-20T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In the *Conference on Computer Vision and Pattern Recognition 2024*
+publication: In the *Conference on Computer Vision and Pattern Recognition 2024* and *ICRA Workshop on Mobile Manipulation and Embodied Intelligence, 2024 (Spotlight)*
 publication_short: In *CVPR*
 
 abstract: "We present a modern formulation of Embodied Question Answering (EQA) as the task of understanding an environment well enough to answer questions about it in natural language. An agent can achieve such an understanding by either drawing upon episodic memory, exemplified by agents on smart glasses, or by actively exploring the environment, as in the case of mobile robots. We accompany our formulation with OpenEQA - the first open-vocabulary benchmark dataset for EQA supporting both episodic memory and active exploration use cases. OpenEQA contains over 1600 high-quality human generated questions drawn from over 180 real-world environments. In addition to the dataset, we also provide an automatic LLM-powered evaluation protocol that has excellent correlation with human judgement. Using this dataset and evaluation protocol, we evaluate several state-of-the-art foundation models like GPT-4V and find that they significantly lag behind human-level performance. Consequently, OpenEQA stands out as a straightforward, measurable, and practically relevant benchmark that poses a considerable challenge to current generation of AI models. We hope this inspires and stimulates future research at the intersection of Embodied AI, conversational agents, and world models."
