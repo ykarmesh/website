@@ -33,7 +33,6 @@ experience:
         * Developed deployment pipelines for web agents to operate on real websites while effectively avoiding bot detection.
         * Created data filtering pipeline and trained VLM-based agents for web navigation tasks.
 
-experience:
   - title: AI Resident
     company: Facebook AI Research
     company_url: 'ai.facebook.com'
