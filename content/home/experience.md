@@ -21,6 +21,18 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+experience:
+  - title: Intern, Technical Staff, AI
+    company: Yutori
+    company_url: 'yutori.com'
+    location: San Francisco
+    date_start: '2024-08-19'
+    date_end: '2024-11-27'
+    description: |2-
+        * Developed deployment pipelines for web agents to operate on real websites while effectively avoiding bot detection.
+        * Created data filtering pipeline and trained VLM-based agents for web navigation tasks.
+
 experience:
   - title: AI Resident
     company: Facebook AI Research
